@@ -6,6 +6,7 @@ import org.openqa.selenium.firefox.MarionetteDriver;
 public class Marionette 
 {
 
+	//Writing the comment to check GitHub Issues integration
 	public static void main(String args[])
 	{
 		String marionetteDriverLocation="E:\\Study\\selenium\\Drivers\\geckodriver.exe";
